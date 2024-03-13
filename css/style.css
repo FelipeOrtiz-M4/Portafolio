@@ -1,0 +1,14 @@
+*{
+  background-color: black;
+}
+
+#perfil{
+  color: white;
+  font-style: italic;
+  size: 100px;
+}
+
+#desc{
+  color: white;
+  size: 50px;
+}
