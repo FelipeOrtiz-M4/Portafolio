@@ -1,0 +1,21 @@
+
+
+#pagina{
+  color: whitesmoke;
+  font-style: italic;
+  size: 100px;
+}
+
+#desc{
+  color: black;
+  size: 50px;
+}
+
+#REDES{
+  filter: grayscale(100%);
+  transition: filter 0.3 ease;
+}
+
+#REDES:hover{
+  filter: grayscale(0%);
+}
